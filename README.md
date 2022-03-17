@@ -1,5 +1,5 @@
 # Circulatory-System-Website
-### This showcases many different things related to the circulatory system mainly what it is, why it is important, and diseases that impact it.
+### This website showcases many different things related to the circulatory system mainly what it is, why it is important, and diseases that impact it.
 ## Main Sections
 ### 1. Intro Page
 ### 2. What is the Circulatory System?
